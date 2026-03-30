@@ -6,7 +6,7 @@
 
 I'm a front-end developer focused on building production-grade web applications using React and Next.js. I care about clean code, great user experience, and shipping things that actually work.
 
-- **Currently building:** a full-stack E-Commerce Storefront with Next.js 14, Stripe, and Zustand
+- Currently building: a UK wind generation analytics dashboard with FastAPI and Next.js
 - **Learning:** TypeScript deeply, system design, and backend fundamentals
 - **Looking for:** my first dev role where I can contribute and grow fast
 - **Based in:** Hyderabad, India
@@ -21,6 +21,8 @@ I'm a front-end developer focused on building production-grade web applications 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## Featured Projects
 
@@ -31,6 +33,13 @@ Features ISR, static generation, Zustand cart persistence, dark mode, auth, admi
 [View Repository](https://github.com/Mourya10104/E-Commerce-Storefront-)
 
 **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Zustand · Stripe · NextAuth.js
+
+### Reint AI Forecast Monitor
+Full-stack energy market analytics dashboard comparing actual vs. forecasted UK wind generation using the live Elexon BMRS Insights API. Custom forecast horizon filtering algorithm, FastAPI backend, and interactive Recharts visualizations.
+
+[View Repository](https://github.com/Mourya10104/reint-ai-forecast-monitor)
+
+**Stack:** Python · FastAPI · Next.js 14 · pandas · Recharts · Tailwind CSS
 
 ## GitHub Stats
 
