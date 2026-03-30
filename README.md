@@ -43,9 +43,9 @@ Full-stack energy market analytics dashboard comparing actual vs. forecasted UK 
 
 ## GitHub Stats
 
-![Mourya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mourya10104&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Mourya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mourya10104&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourya10104&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourya10104&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 *Open to front-end and full-stack roles. Feel free to reach out!*
